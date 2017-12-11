@@ -1,0 +1,18 @@
+PODS:
+  - FoldingCell (2.0.5)
+  - Google-Mobile-Ads-SDK (7.26.0)
+  - SwiftSoup (1.5.8)
+
+DEPENDENCIES:
+  - FoldingCell
+  - Google-Mobile-Ads-SDK
+  - SwiftSoup
+
+SPEC CHECKSUMS:
+  FoldingCell: fb189fc746e95b722a1debf8ef455006b70cae2e
+  Google-Mobile-Ads-SDK: 22d4a6fe18d526adcc12a86d8cc2d53872700966
+  SwiftSoup: 86a1f5ad07b7e3d14ab1a9324a58c75ae2215e79
+
+PODFILE CHECKSUM: 69c0d837ac9fed83d04f01f07ac7b9bdb6b7856e
+
+COCOAPODS: 1.2.1
